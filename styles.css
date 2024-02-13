@@ -34,14 +34,12 @@ body .container {
     background-color: transparent;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding: 15px;
 }
 
 .image {
-    height: calc(100vh - 600px);
-}
-
-.text {
-    height: 220px;
+    width: 100%;
+    max-width: 400px;
 }
 
 .buttons button {
